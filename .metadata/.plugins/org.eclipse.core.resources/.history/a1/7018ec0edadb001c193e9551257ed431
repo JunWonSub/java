@@ -1,0 +1,9 @@
+package check;
+
+public class Dogg implements So
+ndable{
+	@Override
+	public String sound(){
+		return "¸Û¸Û";
+	}
+}
